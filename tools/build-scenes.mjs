@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 const SRC_ROOT = "src/scenes";
 const OUT_FILE = "translations/wfrp4e-eis.scenes.json";
-const output = { label: "WFRP4E Enemy in Shadows – Scenes (IT)", entries: {} };
+const output = { label: "Scene (Nemico nell'Ombra)", entries: {} };
 for (const entryName of fs.readdirSync(SRC_ROOT)) {
   const entryDir = path.join(SRC_ROOT, entryName);
   if (!fs.statSync(entryDir).isDirectory()) continue;
