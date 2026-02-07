@@ -1,0 +1,23 @@
+# Node / tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.swp
+
+# Generated artifacts (optional)
+# If you ever want to avoid committing generated translations,
+# uncomment the following lines.
+# translations/*.json

@@ -1,0 +1,53 @@
+{
+  "id": "wfrp4e-eis-it",
+  "name": "wfrp4e-eis-it",
+  "title": "Enemy in Shadows – Traduzione Italiana",
+  "type": "module",
+  "description": "Traduzione italiana per il modulo wfrp4e-eis (WFRP 4e).",
+  "version": "0.0.1",
+  "authors": [
+    { "name": "Deathkael83" }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "manifest": "https://github.com/moo-man/WFRP4e-FoundryVTT/releases/latest/download/system.json"
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "verified": "2.3.4"
+        },
+		{
+        "id": "wfrp4e-eis",
+        "type": "module",
+        "manifest": "https://foundry-c7-manifests.s3.us-east-2.amazonaws.com/wfrp4e-eis/module.json",
+        "compatibility": {
+          "verified": "7.1.2"
+        }
+      }
+    ]
+  },
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "dependencies": [
+    { "name": "babele" },
+    { "name": "wfrp4e-eis" }
+  ],
+  "url": "https://github.com/Deathkael83/wfrp4e-eis-it",
+  "manifest": "https://github.com/Deathkael83/wfrp4e-eis-it/releases/download/v0.0.1/module.json",
+  "download": "https://github.com/Deathkael83/wfrp4e-eis-it/releases/download/v0.0.1/module.zip"
+}
