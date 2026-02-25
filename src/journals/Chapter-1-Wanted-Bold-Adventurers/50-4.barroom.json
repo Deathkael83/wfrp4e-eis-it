@@ -1,6 +1,7 @@
 ﻿{
-  "entry": "Chapter 1 - Wanted: Bold Adventurers",
-"page": "4. Barroom",
+	"entry": "Chapter 1 - Wanted: Bold Adventurers",
+	"entryName": "Capitolo 1 - Cercasi Valorosi Avventurieri",
+	"page": "4. Barroom",
 	"name": "4. Osteria",
 	"text": "[[EIS-IT OK]]<p>Questo è il locale più usato dai viaggiatori, dove si rilassano e gustano i cibi e le bevande della locanda. È anche dove il proprietario, Gustav, si trova più facilmente, mentre sorveglia il personale o serve direttamente ai tavoli. I pasti costano dai @Pay[3p]{3 penny }per una scodella di zuppa o del pane e formaggio, ai @Pay[6p]{6 penny} per una pentolina di stufato o una torta, fino a @Pay[12p]{12 penny} o @Pay[1s]{1 scellino} per un piatto completo di arrosto, salsicce e verdure. La birra locale ha un prezzo ragionevole @Pay[2p]{2 penny}, ma i vini d’importazione sono costosi e si pagano a bottiglia, per un costo variabile di @Pay[2s]{2}–@Pay[6s]{6} scellini.</p>"
 	}

@@ -1,6 +1,7 @@
 ﻿{
-  "entry": "Chapter 1 - Wanted: Bold Adventurers",
-"page": "10. Bedrooms",
+	"entry": "Chapter 1 - Wanted: Bold Adventurers",
+	"entryName": "Capitolo 1 - Cercasi Valorosi Avventurieri",
+	"page": "10. Bedrooms",
 	"name": "10. Camere da Letto",
 	"text": "[[EIS-IT OK]]<p>Queste stanze offrono privacy, comodità e sono meglio ammobiliate della sala comune. Ognuna può alloggiare due persone comodamente, o fino a quattro condividendo i letti. Il costo medio è @Pay[10s]{10 scellini} per notte. Tutte le camere hanno una serratura e le chiavi vengono tenute dagli occupanti o da Gustav, il proprietario. Le serrature sono <strong>Impegnative (+0)</strong> e richiedono 2 LS per scassinarle.</p>"
 	}

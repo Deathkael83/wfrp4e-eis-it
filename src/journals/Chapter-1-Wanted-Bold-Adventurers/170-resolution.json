@@ -1,6 +1,7 @@
 ﻿{
-  "entry": "Chapter 1 - Wanted: Bold Adventurers",
-"page": "Resolution",
+	"entry": "Chapter 1 - Wanted: Bold Adventurers",
+	"entryName": "Capitolo 1 - Cercasi Valorosi Avventurieri",
+	"page": "Resolution",
 	"name": "Conclusione",
 	"text": "[[EIS-IT OK]]<h3>Ricompense</h3><p>A fine sessione, oltre alle normali ricompense per interpretazione e buone idee (di solito 30-50 PE), si ottengono PE nei seguenti modi:</p><p>s well as your usual awards for good roleplaying and bright ideas awarded at the end of your gaming session (30–50 XP is typical) XP should be awarded for the following:</p><ul><li><p>@Exp[10,Phillipe scoperto a barare]{10 punti per aver scoperto Phillipe a barare}</p></li><li><p>@Exp[20,Phillipe catturato]{20 punti per il Personaggio che ha catturato Phillipe}</p></li><li><p>@Exp[5,Lady Isolde convinta a lasciar salire in carrozza]{5 punti ai Personaggi che convincono Lady Isolde a lasciar salire il gruppo in carrozza} o @Exp[10,Lady Isolde convinta a lasciar salire in carrozza]{10 XP} o @Exp[15,Lady Isolde convinta a lasciar salire in carrozza.]{15 XP} o @Exp[20,Lady Isolde convinta a lasciar salire in carrozza.]{20 XP}</p></li></ul><p>Il GM è libero di assegnare PE per altri motivi, usando queste ricompense come linee guida.</p>"
 	}
