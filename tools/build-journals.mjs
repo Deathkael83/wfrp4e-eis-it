@@ -18,11 +18,25 @@ function isDir(p) {
 }
 
 function readJson(p) {
-  const raw = fs.readFileSync(p, "utf8");
+  let raw = fs.readFileSync(p, "utf8");
+
+  // 1) rimuovi BOM UTF-8 (molto comune su export/copy-paste da Windows)
+  raw = raw.replace(/^\uFEFF/, "");
+
+  // 2) se c'è spazzatura prima di { o [, tagliala (apostrofi, backtick, ecc.)
+  const firstObj = raw.indexOf("{");
+  const firstArr = raw.indexOf("[");
+  let start = -1;
+  if (firstObj !== -1 && firstArr !== -1) start = Math.min(firstObj, firstArr);
+  else start = Math.max(firstObj, firstArr);
+
+  if (start > 0) raw = raw.slice(start);
+
   try {
     return JSON.parse(raw);
   } catch (e) {
-    throw new Error(`JSON non valido: ${p}\n${e.message}`);
+    const preview = raw.slice(0, 120).replace(/\r/g, "\\r").replace(/\n/g, "\\n");
+    throw new Error(`JSON non valido: ${p}\n${e.message}\nPreview: ${preview}`);
   }
 }
 
@@ -33,18 +47,25 @@ if (!isDir(SRC_ROOT)) {
   throw new Error(`Cartella sorgente non trovata: ${SRC_ROOT}`);
 }
 
-for (const entryName of fs.readdirSync(SRC_ROOT)) {
-  const entryDir = path.join(SRC_ROOT, entryName);
+for (const folderName of fs.readdirSync(SRC_ROOT)) {
+  const entryDir = path.join(SRC_ROOT, folderName);
   if (!isDir(entryDir)) continue;
-
-  // entry “come RNHD”: ha anche un name a livello entry
-  output.entries[entryName] = { name: "", pages: {} };
 
   const files = fs.readdirSync(entryDir)
     .filter(f => f.endsWith(".json"))
     .sort();
 
   if (files.length === 0) continue;
+
+  // Determina la chiave entry “vera”:
+  // se la prima pagina ha "entry", usiamo quella; altrimenti usiamo il nome cartella
+  const firstPage = readJson(path.join(entryDir, files[0]));
+  const entryKey = (firstPage.entry && String(firstPage.entry).trim())
+    ? String(firstPage.entry).trim()
+    : folderName;
+
+  // entry “come RNHD”: ha anche un name a livello entry
+  output.entries[entryKey] = output.entries[entryKey] ?? { name: "", pages: {} };
 
   for (const file of files) {
     const fullPath = path.join(entryDir, file);
@@ -65,20 +86,20 @@ for (const entryName of fs.readdirSync(SRC_ROOT)) {
     }
 
     // Imposta il nome entry dalla prima pagina utile
-    if (!output.entries[entryName].name) {
-      output.entries[entryName].name = page.name;
+    if (!output.entries[entryKey].name) {
+      output.entries[entryKey].name = page.name;
     }
 
     // Inserisce/aggiorna la pagina
-    output.entries[entryName].pages[page.page] = {
+    output.entries[entryKey].pages[page.page] = {
       name: page.name,
       text: page.text
     };
   }
 
-  // Se per qualche motivo non è stato impostato (es. name vuoto), fallback
-  if (!output.entries[entryName].name) {
-    output.entries[entryName].name = entryName;
+  // fallback
+  if (!output.entries[entryKey].name) {
+    output.entries[entryKey].name = entryKey;
   }
 }
 
