@@ -1,57 +1,99 @@
 {
-  "label": "Actors (Enemy In Shadows)",
-  "entries": {
-    "Blackie": {
+  "label": "PNG (Nemico nell'Ombra)",
+    "mapping": {
+    "name": "name",
+    "description": "system.details.biography.value",
+    "species": "system.details.species.value",
+    "gender": "system.details.gender.value",
+    "gmnotes": "system.details.gmnotes.value"
+	},
+  "entries": [
+    {
+      "id": "Blackie",
       "name": "Blackie",
-      "system.details.biography.value": "<section class=\"secret\" id=\"secret-4qJv2fsUCpSC9eQX\"><p>Blackie, il corvo domestico di <span class=\"fontstyle0\">@UUID[Actor.ND2uvL1HRLr0ggfw]{Gustav’s}</span>, sta appollaiato su una trave sopra il bancone e spesso imita la voce del padrone. L’imitazione è perfetta, ma se Gustav è inarrestabile, Blackie risulta incomprensibile: <em>‘Benvenuti, ve ne andate così presto, che bello vedervi, preferite viaggiare come una strada o siete appena arrivati? Oh! Certamente! Gradite una gallina da bere?’</em> Blackie può continuare a lungo. È irrefrenabile quasi quanto Gustav.</p></section>"
+      "description": "<section class=\"secret\" id=\"secret-4qJv2fsUCpSC9eQX\"><p>Blackie, il corvo domestico di <span class=\"fontstyle0\">@UUID[Actor.ND2uvL1HRLr0ggfw]{Gustav’s}</span>, sta appollaiato su una trave sopra il bancone e spesso imita la voce del padrone. L’imitazione è perfetta, ma se Gustav è inarrestabile, Blackie risulta incomprensibile: <em>‘Benvenuti, ve ne andate così presto, che bello vedervi, preferite viaggiare come una strada o siete appena arrivati? Oh! Certamente! Gradite una gallina da bere?’</em> Blackie può continuare a lungo. È irrefrenabile quasi quanto Gustav.</p></section>",
+      "species": "Corvo",
+      "gender": "Maschio",
+      "gmnotes": ""
     },
-    "Gunnar": {
+	{
+      "id": "Gunnar",
       "name": "Gunnar",
-      "system.details.biography.value": "",
-	  "system.details.gmnotes.value": "<p>Gunnar, con i capelli color sabbia, e <span class=\"fontstyle2\">@UUID[Actor.uzWAvJDoBl0osDnW]{Hultz}</span>, con la barba scura, sono cocchieri per le @UUID[JournalEntry.XGUpnYfS67guNIWJ.JournalEntryPage.R2BCxi4CJH4hUrru#linee-ratchett]{Linee Ratchett}. Entrambi sono di altezza media, ma Hultz è sulla quarantina e decisamente più grasso. Hanno poco da dire ai PG, a meno che questi non offrano loro una o due (o anche più) birre, dopo di che diventeranno amiconi e ottime fonti d’informazioni (vedere @UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.LwuezrkCidrmlovt]{Pettegolezzi} - EIS pag. 15).</p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Gunnar, con i capelli color sabbia, e <span class=\"fontstyle2\">@UUID[Actor.uzWAvJDoBl0osDnW]{Hultz}</span>, con la barba scura, sono cocchieri per le @UUID[JournalEntry.XGUpnYfS67guNIWJ.JournalEntryPage.R2BCxi4CJH4hUrru#linee-ratchett]{Linee Ratchett}. Entrambi sono di altezza media, ma Hultz è sulla quarantina e decisamente più grasso. Hanno poco da dire ai PG, a meno che questi non offrano loro una o due (o anche più) birre, dopo di che diventeranno amiconi e ottime fonti d’informazioni (vedere @UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.LwuezrkCidrmlovt]{Pettegolezzi} - EIS pag. 15).</p>"
     },
-    "Gustav Fondleburger": {
+	{
+      "id": "Gustav Fondleburger",
       "name": "Gustav Fondleburger",
-      "system.details.biography.value": "",
-	  "system.details.gmnotes.value": "<p>Gustav è un uomo alto 1,70m, calvo, con folte basette grigie e occhi blu. È un tipo grosso e allegro, sui 55, che sembra sempre avere molto da dire, non importa che gli interlocutori siano interessati o meno. Gran parte di queste conversazioni mirano ad accertarsi che gli ospiti siano a proprio agio, parlando del clima, delle condizioni della strada e qualsiasi altra cosa gli venga in mente. Se ne ha la possibilità, è capace di chiacchierare per ore, nel suo accento di Altdorf, e può essere una buona fonte d’informazioni (vedere @UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.LwuezrkCidrmlovt]{Pettegolezzi} - EIS pag. 15).</p><p>Gustav di solito tiene il suo trombone sotto al bancone. I suoi averi includono la Locanda <span class=\"fontstyle0\">@UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.U1AyyYhJ5Oqyb6VP]{Carrozza e Cavalli}, e granaglie (per dare da mangiare a @UUID[Actor.fuSC9ZpTC5GfxZJT]{Blackie}).</span></p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Gustav è un uomo alto 1,70m, calvo, con folte basette grigie e occhi blu. È un tipo grosso e allegro, sui 55, che sembra sempre avere molto da dire, non importa che gli interlocutori siano interessati o meno. Gran parte di queste conversazioni mirano ad accertarsi che gli ospiti siano a proprio agio, parlando del clima, delle condizioni della strada e qualsiasi altra cosa gli venga in mente. Se ne ha la possibilità, è capace di chiacchierare per ore, nel suo accento di Altdorf, e può essere una buona fonte d’informazioni (vedere @UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.LwuezrkCidrmlovt]{Pettegolezzi} - EIS pag. 15).</p><p>Gustav di solito tiene il suo trombone sotto al bancone. I suoi averi includono la Locanda <span class=\"fontstyle0\">@UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.U1AyyYhJ5Oqyb6VP]{Carrozza e Cavalli}, e granaglie (per dare da mangiare a @UUID[Actor.fuSC9ZpTC5GfxZJT]{Blackie}).</span></p>"
     },
-    "Hultz": {
+	{
+      "id": "Hultz",
       "name": "Hultz",
-      "system.details.biography.value": "",
-	  "system.details.gmnotes.value": "<p><span class=\"fontstyle2\">@UUID[Actor.ND9BHKtUxtQqty7w]{Gunnar}</span>, con i capelli color sabbia, e <span class=\"fontstyle2\">Hultz</span>, con la barba scura, sono cocchieri per le @UUID[JournalEntry.XGUpnYfS67guNIWJ.JournalEntryPage.R2BCxi4CJH4hUrru#linee-ratchett]{Linee Ratchett}. Entrambi sono di altezza media, ma Hultz è sulla quarantina e decisamente più grasso. Hanno poco da dire ai PG, a meno che questi non offrano loro una o due (o anche più) birre, dopo di che diventeranno amiconi e ottime fonti d’informazioni (vedere @UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.LwuezrkCidrmlovt]{Pettegolezzi} - EIS pag. 15).</p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p><span class=\"fontstyle2\">@UUID[Actor.ND9BHKtUxtQqty7w]{Gunnar}</span>, con i capelli color sabbia, e <span class=\"fontstyle2\">Hultz</span>, con la barba scura, sono cocchieri per le @UUID[JournalEntry.XGUpnYfS67guNIWJ.JournalEntryPage.R2BCxi4CJH4hUrru#linee-ratchett]{Linee Ratchett}. Entrambi sono di altezza media, ma Hultz è sulla quarantina e decisamente più grasso. Hanno poco da dire ai PG, a meno che questi non offrano loro una o due (o anche più) birre, dopo di che diventeranno amiconi e ottime fonti d’informazioni (vedere @UUID[JournalEntry.mbXVJGCGSm8m7ANd.JournalEntryPage.LwuezrkCidrmlovt]{Pettegolezzi} - EIS pag. 15).</p>"
     },
-	"Herpin Stiggerwurt": {
-		"name": "Herpin Stiggerwurt",
-		"system.details.biography.value": "",
-		"system.details.gmnotes.value": "<p>Herpin ha un pesante accento da Middenlander, capelli castani brizzolati e occhi blu. Ha quasi trent’anni, ma sembra più vecchio. È alto, magro, taciturno e non ha alcun desiderio di far sentire benvenuto chicchessia. Viene dal vicino villaggio di Moersum ed è stato assunto per la sua abilità di birraio e la dedizione al lavoro, non perché bravo a socializzare.</p><p> </p><p></p>"
+	{ 
+	  "id": "Herpin Stiggerwurt",
+      "name": "Herpin Stiggerwurt",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Herpin ha un pesante accento da Middenlander, capelli castani brizzolati e occhi blu. Ha quasi trent’anni, ma sembra più vecchio. È alto, magro, taciturno e non ha alcun desiderio di far sentire benvenuto chicchessia. Viene dal vicino villaggio di Moersum ed è stato assunto per la sua abilità di birraio e la dedizione al lavoro, non perché bravo a socializzare.</p><p> </p><p></p>"
     },
-    "Isolde von Strudeldorf": {
+	{ 
+	  "id": "Isolde von Strudeldorf",
       "name": "Isolde von Strudeldorf",
-      "system.details.biography.value": "",
-	  "system.details.gmnotes.value": "<p>Lady Isolde von Strudeldorf è una tipica nobildonna Drakwalder, magra, con capelli rosso-oro, occhi verdi e un raffinato accento nobiliare del Reikland. È giovane, testarda e nasconde la mancanza di autostima con un’aria da snob. Si veste con gli abiti più eleganti e ha numerosi e insoliti copricapi (le cappelliere occupano gran parte dello spazio sul tetto della carrozza). Durante il viaggio stringe a sé la custodia del suo liuto e obietterà fortemente a qualsiasi intrusione dei Personaggi, minacciando ritorsioni da parte dei suoi importanti parenti di Altdorf.</p><p> </p><p></p><p>Lady Isolde conserva gli oggetti di valore in un forziere nella propria stanza, con una serratura <strong>Difficile (-10)</strong> che richiede <strong>2 LS</strong> per aprirla. All’interno ci sono abiti costosi e gioielli per un valore di 7 corone.</p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Lady Isolde von Strudeldorf è una tipica nobildonna Drakwalder, magra, con capelli rosso-oro, occhi verdi e un raffinato accento nobiliare del Reikland. È giovane, testarda e nasconde la mancanza di autostima con un’aria da snob. Si veste con gli abiti più eleganti e ha numerosi e insoliti copricapi (le cappelliere occupano gran parte dello spazio sul tetto della carrozza). Durante il viaggio stringe a sé la custodia del suo liuto e obietterà fortemente a qualsiasi intrusione dei Personaggi, minacciando ritorsioni da parte dei suoi importanti parenti di Altdorf.</p><p> </p><p></p><p>Lady Isolde conserva gli oggetti di valore in un forziere nella propria stanza, con una serratura <strong>Difficile (-10)</strong> che richiede <strong>2 LS</strong> per aprirla. All’interno ci sono abiti costosi e gioielli per un valore di 7 corone.</p>"
     },
-	"Janna Elleiner": {
+	{ 
+	  "id": "Janna Elleiner",
       "name": "Janna Elleiner",
-      "system.details.biography.value": "",
-	  "system.details.gmnotes.value": "<p>Janna ha solo sedici anni, sottili capelli grigio topo e occhi blu-grigio. Parla poco, anche se a volte <span class=\"fontstyle0\">@UUID[Actor.goVesadmHWsl5E98]{Lady Isolde}</span> la costringe a esprimersi in sua vece. In questi casi appare molto a disagio e rivela un delicato accento Drakwalder. Nonostante la timidezza è molto brava nel suo lavoro.</p><p></p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Janna ha solo sedici anni, sottili capelli grigio topo e occhi blu-grigio. Parla poco, anche se a volte <span class=\"fontstyle0\">@UUID[Actor.goVesadmHWsl5E98]{Lady Isolde}</span> la costringe a esprimersi in sua vece. In questi casi appare molto a disagio e rivela un delicato accento Drakwalder. Nonostante la timidezza è molto brava nel suo lavoro.</p><p></p>"
     },
-	"Marie Schutz": {
-		"name": "Marie Schutz",
-		"system.details.biography.value": "<p>@Embed[Compendium.wfrp4e-core.journals.6zOdTLv3YeYeJ4hR.JournalEntryPage.dPpyiMhPwVGJnJrv caption=false]{Dodge}",
-		"system.details.gmnotes.value": ""
+	{ 
+	  "id": "Marie Schutz",
+      "name": "Marie Schutz",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>Come le leggendarie donne-guerriere Middenlander, Marie è particolarmente alta, atletica e muscolosa, con folti capelli biondo scuro e gelidi occhi azzurri. È sulla trentina, indossa severi abiti scuri e non sorride mai. Lavora per la famiglia von Strudeldorf da quindici anni ed è perfettamente in grado di proteggere <span class=\"fontstyle0\">@UUID[Actor.goVesadmHWsl5E98]{Lady Isolde}</span>. Parla poco, di solito limitandosi a dire: <em>‘Non infastidite la signora.’</em> In combattimento preferisce restare sulla difensiva, proteggendo la sua signora a ogni costo.</p>"
     },
-    "Ernst Heidlemann": {
+	{ 
+	  "id": "Ernst Heidlemann",
       "name": "Ernst Heidlemann",
-      "system.details.biography.value": "",
-	  "system.details.gmnotes.value": "<p><strong>Corruption</strong>: 6</p><p>Appena ventenne, Ernst Heidlemann è di altezza media, ha lisci capelli castani, gli occhi blu pallido e sta cercando disperatamente di farsi crescere la barba. È un membro di basso livello della Corona Rossa, un culto del Caos dedicato a Tzeentch e ostile alla @UUID[JournalEntry.IZVgB7zmTm4rK2yJ]{Mano Purpurea}.</p><p>Finge di essere un apprendista medico diretto all’@UUID[Compendium.wfrp4e-altdorf.journals.EmhvOkkzAir6pzCB.JournalEntryPage.OiAVm63T9JEFsVfR]{Università di Altdorf} per continuare gli studi, ma in realtà deve consegnare dei preparati a un demonologo e studiare la Magia Oscura. Se i Personaggi dovessero scoprire la verità, Ernst cercherà di ucciderli, da solo o assoldando degli scagnozzi.</p><p>Il libro di Ernst ha una copertina falsa, sembra portare il titolo de <em>Le Sanguisughe e le loro Proprietà Curative</em>, ma in realtà è <em>De Vitae Occultae Daemoniis</em> (“Vita Segreta dei Demoni”). Il libro è scritto in Classico. Chi lo legge ottiene una conoscenza basilare dei @UUID[JournalEntry.3ZynTGhFpgwv6l1n.JournalEntryPage.NS7k4xBGElPSynkI#demoni,-la-schiera-incomprensibile]{Demoni} come descritto nel Bestiario (WFRP, pagg. 335 336) e subisce un’<strong>@UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.115GzWrmkD4viyy5#esposizione-minore]{Esposizione Minore alla Corruzione}</strong> (vedere WFRP, pag. 182); ciò significa che il lettore deve superare una <strong>Prova Impegnativa (+0) di Freddezza</strong> o ricevere <strong>1 Corruzione</strong>.</p><p>La valigia di cuoio di Ernst contiene i suoi effetti personali e, in un doppio fondo, i preparati che sta trasportando ad Altdorf: sei f iale di liquidi verdi ribollenti, polveri colorate e qualsiasi altra sostanza il GM inventi.</p><p>Ernst non sa a cosa servano, sa solo che devono essere consegnati al Dottor Schmidt all’@UUID[Compendium.wfrp4e-altdorf.journals.EmhvOkkzAir6pzCB.JournalEntryPage.OiAVm63T9JEFsVfR]{Università di Altdorf}. Superare una <strong>Prova Impegnativa (+0) di Mestiere (Apotecario)</strong>, una <strong>Difficile (-10) di Conoscenza (Chimica)</strong> o di altre Abilità simili permette di identificarli come preparati per alleviare la paralisi muscolare e ridare forza. Un Personaggio privo delle giuste abilità non riesce a farne uso e potrebbe finire per avvelenarsi accidentalmente. Consumare due sostanze diverse insieme causa un numero di Condizioni @Condition[Avvelenato] pari a <span class=\"fontstyle0\">[[/r 1d10]]</span> - Bonus Resistenza (minimo 1), ma si può resistere con una <strong>Prova Impegnativa (+0) di Tempra</strong>.</p><p>Ernst è un personaggio ricorrente, che tornerà nei volumi successivi de <strong>Il Nemico Dentro</strong>, quindi il GM deve fare del suo meglio per tenerlo in vita.</p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p><strong>Corruption</strong>: 6</p><p>Appena ventenne, Ernst Heidlemann è di altezza media, ha lisci capelli castani, gli occhi blu pallido e sta cercando disperatamente di farsi crescere la barba. È un membro di basso livello della Corona Rossa, un culto del Caos dedicato a Tzeentch e ostile alla @UUID[JournalEntry.IZVgB7zmTm4rK2yJ]{Mano Purpurea}.</p><p>Finge di essere un apprendista medico diretto all’@UUID[Compendium.wfrp4e-altdorf.journals.EmhvOkkzAir6pzCB.JournalEntryPage.OiAVm63T9JEFsVfR]{Università di Altdorf} per continuare gli studi, ma in realtà deve consegnare dei preparati a un demonologo e studiare la Magia Oscura. Se i Personaggi dovessero scoprire la verità, Ernst cercherà di ucciderli, da solo o assoldando degli scagnozzi.</p><p>Il libro di Ernst ha una copertina falsa, sembra portare il titolo de <em>Le Sanguisughe e le loro Proprietà Curative</em>, ma in realtà è <em>De Vitae Occultae Daemoniis</em> (“Vita Segreta dei Demoni”). Il libro è scritto in Classico. Chi lo legge ottiene una conoscenza basilare dei @UUID[JournalEntry.3ZynTGhFpgwv6l1n.JournalEntryPage.NS7k4xBGElPSynkI#demoni,-la-schiera-incomprensibile]{Demoni} come descritto nel Bestiario (WFRP, pagg. 335 336) e subisce un’<strong>@UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.115GzWrmkD4viyy5#esposizione-minore]{Esposizione Minore alla Corruzione}</strong> (vedere WFRP, pag. 182); ciò significa che il lettore deve superare una <strong>Prova Impegnativa (+0) di Freddezza</strong> o ricevere <strong>1 Corruzione</strong>.</p><p>La valigia di cuoio di Ernst contiene i suoi effetti personali e, in un doppio fondo, i preparati che sta trasportando ad Altdorf: sei f iale di liquidi verdi ribollenti, polveri colorate e qualsiasi altra sostanza il GM inventi.</p><p>Ernst non sa a cosa servano, sa solo che devono essere consegnati al Dottor Schmidt all’@UUID[Compendium.wfrp4e-altdorf.journals.EmhvOkkzAir6pzCB.JournalEntryPage.OiAVm63T9JEFsVfR]{Università di Altdorf}. Superare una <strong>Prova Impegnativa (+0) di Mestiere (Apotecario)</strong>, una <strong>Difficile (-10) di Conoscenza (Chimica)</strong> o di altre Abilità simili permette di identificarli come preparati per alleviare la paralisi muscolare e ridare forza. Un Personaggio privo delle giuste abilità non riesce a farne uso e potrebbe finire per avvelenarsi accidentalmente. Consumare due sostanze diverse insieme causa un numero di Condizioni @Condition[Avvelenato] pari a <span class=\"fontstyle0\">[[/r 1d10]]</span> - Bonus Resistenza (minimo 1), ma si può resistere con una <strong>Prova Impegnativa (+0) di Tempra</strong>.</p><p>Ernst è un personaggio ricorrente, che tornerà nei volumi successivi de <strong>Il Nemico Dentro</strong>, quindi il GM deve fare del suo meglio per tenerlo in vita.</p>"
     },
-    "Fhluger'dagh": {
+	{ 
+	  "id": "Fhluger'dagh",
       "name": "Fhluger'dagh",
-      "system.details.biography.value": ""
-    },
-    "Phillipe Descartes": {
+      "description": "",
+      "species": "Demone Minore",
+      "gender": "",
+      "gmnotes": ""
+    },{ 
+	  "id": "Phillipe Descartes",
       "name": "Phillipe Descartes",
-      "system.details.biography.value": "<p>You are a dicing master, and all claims you cheat are clearly wrong. When you successfully use Gamble or Sleight of Hand when playing with dice, you can choose to either use your rolled SL, or the number rolled on your units die. So, a successful roll of 06 could be used for +6 SL. If you play any real-life dice games to represent in-game dice games, always roll extra dice equal to your Diceman level and choose the best results.</p>"
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>You are a dicing master, and all claims you cheat are clearly wrong. When you successfully use Gamble or Sleight of Hand when playing with dice, you can choose to either use your rolled SL, or the number rolled on your units die. So, a successful roll of 06 could be used for +6 SL. If you play any real-life dice games to represent in-game dice games, always roll extra dice equal to your Diceman level and choose the best results.</p>"
     }
-  }
+	]
 }
