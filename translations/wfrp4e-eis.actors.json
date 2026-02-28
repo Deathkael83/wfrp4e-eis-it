@@ -87,13 +87,102 @@
       "species": "Demone Minore",
       "gender": "",
       "gmnotes": ""
-    },{ 
-	  "id": "Phillipe Descartes",
-      "name": "Phillipe Descartes",
+    },
+	{ 
+	  "id": "Anida Pflaster",
+      "name": "Anida Pflaster",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.X9ISuDA0vlbCKL0W#serviva-proprio-un-medico]{Serviva Proprio un Medico}</p><p>Anida (anche se è meglio chiamarla “Dottoressa” per non ricevere un torrente di insulti coloriti) è una donna brusca e scontrosa. Ha ricci neri, che copre quando tratta i pazienti, e i medesimi occhi marroni e pelle scura del fratello iperprotettivo, il <span class=\"fontstyle0\">@UUID[Actor.qV5dluDJYZGoMpl1]{</span>Sergente Pflaster,<span class=\"fontstyle0\">}</span> da cui vuole restare ben lontana. Non ha tempo per le sue idiozie apprensive e non ne fa mistero se le capita di parlarne… cosa molto probabile. Anida è chiaramente abile e sicura di sé, e non ama chiacchierare mentre lavora. È diretta verso (o di ritorno, a seconda delle circostanze) la sua vecchia università, il @UUID[Compendium.wfrp4e-middenheim.journals.PuIrlGBOjxuWpK3P.JournalEntryPage.PJSTe8IXwh6oy78t]{Collegium Theologica} di Middenheim, per presenziare a una conferenza di medicina, per cui ha poco tempo da dedicare a imbecilli sconsiderati in cerca di guai e non si fa problemi a dirlo.</p><p>Tuttavia ha giurato di aiutare i bisognosi (al prezzo di <span class=\"fontstyle0\">@Pay[4s]{</span>4 scellini<span class=\"fontstyle0\">}</span>) e, con un profondo sospiro, si occuperà di qualsiasi ferita, dopo essere stata pagata.</p><p>Se i Personaggi hanno dirottato il fratello, così che non si incontrino, e glielo comunicano, Anida ne sarà felice e farà uno sconto di <span class=\"fontstyle0\">@Pay[1s]{</span>1 scellino<span class=\"fontstyle0\">}</span>.</p>"
+    },
+	{ 
+	  "id": "Baldwin (Road Warden)",
+      "name": "Baldwin (Guardastrada)",
       "description": "",
       "species": "Umano",
       "gender": "Maschio",
-      "gmnotes": "<p>You are a dicing master, and all claims you cheat are clearly wrong. When you successfully use Gamble or Sleight of Hand when playing with dice, you can choose to either use your rolled SL, or the number rolled on your units die. So, a successful roll of 06 could be used for +6 SL. If you play any real-life dice games to represent in-game dice games, always roll extra dice equal to your Diceman level and choose the best results.</p>"
-    }
+      "gmnotes": "<p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV#arriva-la-legge]{Arriva la Legge}</p><p>La pattuglia di <span class=\"fontstyle0\">@UUID[Actor.qV5dluDJYZGoMpl1]{Pflaster} </span>è formata da quattro Guardastrada, tutti con un pesante accento di Altdorf, che lasciano i discorsi ufficiali al Sergente, loro non vengono pagati abbastanza per quella roba. Se il Sergente non c’è, sono tutti pronti a staccare multe per infrazioni immaginarie o accettare bustarelle per nascondere dei guai. In effetti è così che guadagnano gran parte del loro denaro, che poi spendono al Mantello Baio, la loro taverna preferita ad Altdorf.</p>"
+    },
+	{ 
+	  "id": "Erik (Mutant Brigand)",
+      "name": "Erik (Bandito Mutante)",
+      "description": "<section class=\"secret\" id=\"secret-O4LQDiXj4yRMbG9N\"><p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV]{Un Contorto Viaggio nel Mistero}</p><p><span class=\"fontstyle0\">I banditi mutanti di Knud sono inquietanti. Tutti i membri di </span>questo gruppo sono resi ancora più orrendi dai chiari segni della corruzione. Questo ha le gambe da capra e parla con un sorprendentemente raffinato accento del Reikland.</p><p>*2 Ferite Rimanenti</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Johann (Mutant Brigand)",
+      "name": "Johann (Bandito Mutante)",
+      "description": "<section class=\"secret\" id=\"secret-Yracefjb0u3Di3Ra\"><p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV]{Un Contorto Viaggio nel Mistero}</p><p><span class=\"fontstyle0\">I banditi mutanti di Knud sono inquietanti. Tutti i membri di </span>questo gruppo sono resi ancora più orrendi dai chiari segni della corruzione. Questo ha la testa conica ed emette un continuo lamento di dolore.</p><p>*4 Ferite Rimanenti</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Knud Cratinx",
+      "name": "Knud Cratinx",
+      "description": "<section class=\"secret\" id=\"secret-8ubmERw3pV81BX1X\"><p>Knud, in penombra, potrebbe quasi passare per un Umano, ma alla fredda luce del giorno i segni della sua corruzione sono chiari: ogni centimetro di pelle è coperto di spesse scaglie verde scuro. Inoltre una lingua biforcuta saetta tra i denti gialli e storti, originando una voce sibilante. Parla con un forte accento di Altdorf, ma solo per insultare o minacciare, cose che gli piacciono molto.</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Leopold (Road Warden)",
+      "name": "Leopold (Guardastrada)",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV#arriva-la-legge]{Arriva la Legge}</p><p>La pattuglia di <span class=\"fontstyle0\">@UUID[Actor.qV5dluDJYZGoMpl1]{Pflaster} </span>è formata da quattro Guardastrada, tutti con un pesante accento di Altdorf, che lasciano i discorsi ufficiali al Sergente, loro non vengono pagati abbastanza per quella roba. Se il Sergente non c’è, sono tutti pronti a staccare multe per infrazioni immaginarie o accettare bustarelle per nascondere dei guai. In effetti è così che guadagnano gran parte del loro denaro, che poi spendono al Mantello Baio, la loro taverna preferita ad Altdorf.</p>"
+    },
+	{ 
+	  "id": "Magnus Pflaster",
+      "name": "Sergente Pflaster",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Pflaster è un uomo magro di altezza media, ha corti capelli neri, pelle scura e profondi occhi marroni. È un ufficiale veterano di <span class=\"fontstyle0\">@UUID[Compendium.wfrp4e-core.journals.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf}</span> fermo sulle sue convinzioni. Il suo lavoro è mantenere sicure le strade e, anche se ciò dovrebbe significare proteggere i viaggiatori, dà più valore alla sicurezza delle tratte che alle singole vite. Parla con un accento popolare e tono severo. Di solito non pattuglia queste strade, ma ha saputo che <span class=\"fontstyle0\">@UUID[Actor.1KyqwFkCeyOkJ3l7]{</span>sua sorella<span class=\"fontstyle0\">}</span> è diretta da sola a <span class=\"fontstyle0\">@UUID[Compendium.wfrp4e-middenheim.journals.PuIrlGBOjxuWpK3P]{Middenheim}</span>. Vuole rintracciarla e convincerla che si tratta di una follia.</p>"
+    },
+	{ 
+	  "id": "Mikael (Mutant Brigand)",
+      "name": "Mikael (Bandito Mutante)",
+      "description": "<section class=\"secret\" id=\"secret-o28bqow7JYMaB9ar\"><p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV]{Un Contorto Viaggio nel Mistero}</p><p><span class=\"fontstyle0\">I banditi mutanti di Knud sono inquietanti. Tutti i membri di </span>questo gruppo sono resi ancora più orrendi dai chiari segni della corruzione. Questo ha la testa di un cane feroce e riesce solo ad abbaiare, guaire e uggiolare come un animale.</p><p>*1 Ferita Rimanente</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Rolf Hurtsis",
+      "name": "Rolf Hurtsis",
+      "description": "<section class=\"secret\" id=\"secret-uU4qoiSMwOM6toIR\"><p>Un tempo Rolf era un uomo comune, di altezza e costituzione media, ma ora è sfigurato da un’orrenda mutazione: il suo volto è rovinato, purulento e grottesco, con la pelle cascante e lurida di pus. Indossa degli stracci sudici, macchiati dai resti di pasti precedenti e dal suo stesso sangue. A causa della mutazione le sue corde vocali sono atrofizzate e marce, rendendolo capace di articolare solo un ringhio basso e minaccioso.</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Sunna (Road Warden)",
+      "name": "Sunna (Guardastrada)",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV#arriva-la-legge]{Arriva la Legge}</p><p>La pattuglia di <span class=\"fontstyle0\">@UUID[Actor.qV5dluDJYZGoMpl1]{Pflaster} </span>è formata da quattro Guardastrada, tutti con un pesante accento di Altdorf, che lasciano i discorsi ufficiali al Sergente, loro non vengono pagati abbastanza per quella roba. Se il Sergente non c’è, sono tutti pronti a staccare multe per infrazioni immaginarie o accettare bustarelle per nascondere dei guai. In effetti è così che guadagnano gran parte del loro denaro, che poi spendono al Mantello Baio, la loro taverna preferita ad Altdorf.</p>"
+    },
+	{ 
+	  "id": "Terenz (Mutant Brigand)",
+      "name": "Terenz (Bandito Mutante)",
+      "description": "<section class=\"secret\" id=\"secret-haIYXtMIzD7jCZye\"><p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV]{Un Contorto Viaggio nel Mistero}</p><p><span class=\"fontstyle0\">I banditi mutanti di Knud sono inquietanti. Tutti i membri di </span>questo gruppo sono resi ancora più orrendi dai chiari segni della corruzione. Questo ha una testa minuscola e parla (spesso ridacchiando) con la vocetta acuta di un bambino.</p><p>*3 Ferite Rimanenti</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Willirun (Road Warden)",
+      "name": "Willirun (Guardastrada)",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV#arriva-la-legge]{Arriva la Legge}</p><p>La pattuglia di <span class=\"fontstyle0\">@UUID[Actor.qV5dluDJYZGoMpl1]{Pflaster} </span>è formata da quattro Guardastrada, tutti con un pesante accento di Altdorf, che lasciano i discorsi ufficiali al Sergente, loro non vengono pagati abbastanza per quella roba. Se il Sergente non c’è, sono tutti pronti a staccare multe per infrazioni immaginarie o accettare bustarelle per nascondere dei guai. In effetti è così che guadagnano gran parte del loro denaro, che poi spendono al Mantello Baio, la loro taverna preferita ad Altdorf.</p>"
+    },
 	]
 }

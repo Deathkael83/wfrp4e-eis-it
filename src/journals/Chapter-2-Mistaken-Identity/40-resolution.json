@@ -1,0 +1,7 @@
+﻿{
+	"entry": "Chapter 2 - Mistaken Identity",
+	"entryName": "Capitolo 2 - Scambio d'Identità",
+	"page": "Resolution",
+	"name": "Conclusione",
+	"text": "[[EIS-IT OK]]<p>A fine sessione, oltre alle normali ricompense per interpretazione e buone idee, si ottengono PE nei seguenti modi:</p><ul><li><p>@Exp[10,Sconfitto Rolf Hurtsis]{10 punti ciascuno per aver sconfitto Rolf Hurtsis}</p></li><li><p>@Exp[20,Sconfitti i Mutanti]{20 punti ciascuno per aver sconfitto i Mutanti}</p></li><li><p>@Exp[10,Trovato la lettera dell'eredità]{10 punti ciascuno per aver trovato la lettera dell’eredità}</p></li><li><p>@Exp[5,Fugato i dubbi dei Guardastrada]{5 punti ciascuno per aver fugato i dubbi dei Guardastrada}</p></li></ul><p>Il GM è libero di assegnare PE per altri motivi, usando queste ricompense come linee guida.</p>"
+}
