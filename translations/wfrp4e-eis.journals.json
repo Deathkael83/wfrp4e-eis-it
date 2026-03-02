@@ -7,57 +7,57 @@
         "Handout 1: Wanted! Bold Adventurers!": {
           "name": "Allegato 1: Cercasi Valorosi Avventurieri!",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-01.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-01.webp"
         },
         "Handout 2: Rolf Hurtsis": {
           "name": "Allegato 2: Rolf Hurtsis",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-02.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-02.webp"
         },
         "Handout 3: The Inheritance": {
           "name": "Allegato 3: L'Eredità",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-03.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-03.webp"
         },
         "Handout 4: The Affidavit": {
           "name": "Allegato 4: L'Affidavit",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-04.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-04.webp"
         },
         "Handout 5: Josef Quartjin": {
           "name": "Allegato 5: Josef Quartjin",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-05.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-05.webp"
         },
         "Handout 6: The Schaffenfest": {
           "name": "Allegato 6: La Schaffenfest",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-06.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-06.webp"
         },
         "Handout 7: The Letter": {
           "name": "Allegato 7: La Lettera",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-07.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-07.webp"
         },
         "Handout 8: Hour After Sunset": {
           "name": "Allegato 8: Dopo il Tramonto",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-08.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-08.webp"
         },
         "Handout 9: 'All Goes Well'": {
           "name": "Allegato 9: 'Va Tutto Bene'",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-09.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-09.webp"
         },
         "Handout 10: Herzen's Letter": {
           "name": "Allegato 10: Lettera di Herzen",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-10.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-10.webp"
         },
         "Handout 11: Magirius's Note": {
           "name": "Allegato 11: Nota di Magirius",
           "type": "image",
-          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-11.png"
+          "src": "modules/wfrp4e-eis-it/assets/journals/appendices/EIS-HO-11.webp"
         }
       }
     },
