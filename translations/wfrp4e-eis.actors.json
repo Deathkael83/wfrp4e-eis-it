@@ -88,6 +88,8 @@
       "gender": "",
       "gmnotes": ""
     },
+	
+	
 	{ 
 	  "id": "Anida Pflaster",
       "name": "Anida Pflaster",
@@ -183,6 +185,87 @@
       "species": "Umano",
       "gender": "Maschio",
       "gmnotes": "<p>@UUID[JournalEntry.2JX9k58tn9lJfkqS.JournalEntryPage.CfHPEuCzlIow7PAV#arriva-la-legge]{Arriva la Legge}</p><p>La pattuglia di <span class=\"fontstyle0\">@UUID[Actor.qV5dluDJYZGoMpl1]{Pflaster} </span>è formata da quattro Guardastrada, tutti con un pesante accento di Altdorf, che lasciano i discorsi ufficiali al Sergente, loro non vengono pagati abbastanza per quella roba. Se il Sergente non c’è, sono tutti pronti a staccare multe per infrazioni immaginarie o accettare bustarelle per nascondere dei guai. In effetti è così che guadagnano gran parte del loro denaro, che poi spendono al Mantello Baio, la loro taverna preferita ad Altdorf.</p>"
-    }
+    },
+	
+	{ 
+	  "id": "Arwin (Guard)",
+      "name": "Arwin (Guardia)",
+      "description": "<section class=\"secret\" id=\"secret-4UorWorAR19Lv3BK\"><p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p>I due nobili sono accompagnati da quattro guardie del corpo colossali, tutte alte più di 1,80m e molto muscolose. Parlano di rado e preferiscono restare vicine ai padroni, pronte a intervenire se qualcuno osa rivolgersi o mettere le mani sul fiore della nobiltà del Reikland. Se costrette, si esprimono con l’accento ringhiante tipico dei più infimi criminali dei @UUID[Compendium.wfrp4e-altdorf.journals.85UN6bKPTfGEBtBb]{sobborghi di Altdorf}</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Dockland Drinkers",
+      "name": "Avventori dei Moli",
+      "description": "<section class=\"secret\" id=\"secret-OoCKULRj6KQcHYrR\"><p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p>I Personaggi non sono gli unici clienti della locanda. I lavoratori dei moli sono famosi per essere dei duri, ma non sono stupidi.</p><p>Finché i damerini non risultano troppo fastidiosi e provocano solo gli stranieri, la gente del posto evita di mettersi in mezzo e potrebbe anche farsi una risata a spese di un forestiero imbecille che si è meritato un bel tuffo, o peggio.</p><p>Prima o poi, ossia quando il GM è convinto che il gruppo abbia bisogno di aiuto o quando la situazione sta andando oltre una semplice zuffa, alcuni di loro potrebbero intervenire. Agiscono in modo da non causare danni letali, con l’idea di buttare fuori damerini, guardie del corpo, Personaggi e ogni altro straniero, così da poter tornare a bere in pace.</p><p>Tuttavia, se qualcuno sfodera un’arma, rispondono con coltelli, bottiglie rotte e ogni altro arnese a portata di mano.</p><p>Gli avventori sono un’accozzaglia di barcaioli, donne di fiume e scaricatori. Sono quasi tutti Altdorfer, ma alcuni provengono da altri angoli dell’Impero e hanno accenti molto vari.</p></section>",
+      "species": "Umano",
+      "gender": "Varie",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Frank (Guard)",
+      "name": "Frank (Guardia)",
+      "description": "<section class=\"secret\" id=\"secret-4UorWorAR19Lv3BK\"><p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p>I due nobili sono accompagnati da quattro guardie del corpo colossali, tutte alte più di 1,80m e molto muscolose. Parlano di rado e preferiscono restare vicine ai padroni, pronte a intervenire se qualcuno osa rivolgersi o mettere le mani sul fiore della nobiltà del Reikland. Se costrette, si esprimono con l’accento ringhiante tipico dei più infimi criminali dei @UUID[Compendium.wfrp4e-altdorf.journals.85UN6bKPTfGEBtBb]{sobborghi di Altdorf}</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Georg von Ostbrun",
+      "name": "Georg von Ostbrun",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p><span class=\"fontstyle0\">@UUID[Actor.G7YJHGe4JkHvcNja]{Jacob von Katzenreik} e @UUID[Actor.bur6uaXdENjetLwT]{Georg von Ostbrun}</span> sono esattamente il tipo di degenerati ricchi e fastidiosi che fanno infuriare sobillatori e agitatori nella Kaiserplatz. Hanno un ego enorme e non fanno nulla per nasconderlo. Indossano abiti sgargianti e poco pratici e dozzine di anelli, hanno le guance impomatate e le parrucche ben incipriate. Straordinariamente ricchi e sprezzanti nei confronti dei pensieri, dei sentimenti e delle fatiche della gente comune, parlano con un perfetto accento delle classi alte del Reikland. Tendono a ridere molto, in particolare quando insultano qualcuno. </p><p><strong>Averi:</strong> Gioiello (6 Corone)</p><blockquote class=\"sidebar\"><h3 style=\"text-align: center; text-transform:uppercase\" class=\"sidebar-title\"><em>Andar per bassifondi</em></h3><p>“Andar per bassifondi” è un passatempo diffuso tra i giovani nobili dell’Impero. Riunisce le loro più grandi passioni: bere all’eccesso, comportarsi in modo oltraggioso e sentirsi superiori alle masse.</p><p>Alcuni di questi damerini si muovono in branco, contando sul numero per difendersi quando il timore per il loro rango, o una manciata di monete, non basta. Altri assoldano guardie del corpo per non dover affrontare le conseguenze delle proprie azioni. In fondo è solo un divertimento, cosa dovrebbe dare a questi villani il diritto di lamentarsi? Il fatto che i loro negozi vengano distrutti o qualche osso rotto? Certa gente non ha il senso dell’umorismo.</p></blockquote>"
+    },
+	{ 
+	  "id": "Gorrof (Guard)",
+      "name": "Gorrof (Guardia)",
+      "description": "<section class=\"secret\" id=\"secret-4UorWorAR19Lv3BK\"><p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p>I due nobili sono accompagnati da quattro guardie del corpo colossali, tutte alte più di 1,80m e molto muscolose. Parlano di rado e preferiscono restare vicine ai padroni, pronte a intervenire se qualcuno osa rivolgersi o mettere le mani sul fiore della nobiltà del Reikland. Se costrette, si esprimono con l’accento ringhiante tipico dei più infimi criminali dei @UUID[Compendium.wfrp4e-altdorf.journals.85UN6bKPTfGEBtBb]{sobborghi di Altdorf}</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Jacob von Katzenreik",
+      "name": "Jacob von Katzenreik",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p><span class=\"fontstyle0\">@UUID[Actor.G7YJHGe4JkHvcNja]{Jacob von Katzenreik} e @UUID[Actor.bur6uaXdENjetLwT]{Georg von Ostbrun}</span> sono esattamente il tipo di degenerati ricchi e fastidiosi che fanno infuriare sobillatori e agitatori nella Kaiserplatz. Hanno un ego enorme e non fanno nulla per nasconderlo. Indossano abiti sgargianti e poco pratici e dozzine di anelli, hanno le guance impomatate e le parrucche ben incipriate. Straordinariamente ricchi e sprezzanti nei confronti dei pensieri, dei sentimenti e delle fatiche della gente comune, parlano con un perfetto accento delle classi alte del Reikland. Tendono a ridere molto, in particolare quando insultano qualcuno. </p><p><strong>Averi:</strong> Gioiello (6 Corone)</p><blockquote class=\"sidebar\"><h3 style=\"text-align: center; text-transform:uppercase\" class=\"sidebar-title\"><em>Andar per bassifondi</em></h3><p>“Andar per bassifondi” è un passatempo diffuso tra i giovani nobili dell’Impero. Riunisce le loro più grandi passioni: bere all’eccesso, comportarsi in modo oltraggioso e sentirsi superiori alle masse.</p><p>Alcuni di questi damerini si muovono in branco, contando sul numero per difendersi quando il timore per il loro rango, o una manciata di monete, non basta. Altri assoldano guardie del corpo per non dover affrontare le conseguenze delle proprie azioni. In fondo è solo un divertimento, cosa dovrebbe dare a questi villani il diritto di lamentarsi? Il fatto che i loro negozi vengano distrutti o qualche osso rotto? Certa gente non ha il senso dell’umorismo.</p></blockquote>"
+    },
+	{ 
+	  "id": "Josef Quartjin",
+      "name": "Josef Quartjin",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Josef è un uomo alto, con lunghi capelli grigi e un eterno sorriso. Ha spalle enormi e braccia robuste, entrambe nascoste da un generoso strato di grasso. Ha una gran barba ispida, che gli arriva fino all’enorme pancia. È di temperamento gioviale e gli piace la buona compagnia.</p><p>Parla a voce alta con un pesante accento Middenlander. Tende a ringraziare gli dei quando le cose vanno bene, di solito Sigmar, Taal e Nonno Reik, e cercare il loro aiuto in caso contrario.</p><p><strong>Averi:</strong> 34 scellini e 156 penny (a bordo), Ascia, Bottiglie di Vino (molte), Balestra, Barcone da Fiume (la Berebeli), Elmetto di Cuoio, Giaco di Cuoio</p><blockquote><p style=\"text-align: center;\">Equipaggio della Berebeli</p><p>L’imbarcazione di Josef, la Berebeli, è un comune barcone fluviale, come ce ne sono tanti nell’Impero. È anche la casa del suo equipaggio: Wolmar e Gilda (entrambi mozzi) e la loro bambina neonata Elsa. Wolmar e Gilda lavorano per Josef da due anni e vanno molto d’accordo con lui. Sono estremamente fedeli al padrone, che li ha ripescati dopo che la loro barca era affondata, e molto gentili con i suoi amici.</p></blockquote>"
+    },
+	{ 
+	  "id": "Max Ernst",
+      "name": "Max Ernst",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p><span class=\"fontstyle0\">M</span>ax Ernst è un sadico con l’aria cattiva e il sangue freddo. È alto e forzuto, porta i capelli castano chiaro all’indietro e ha gli occhi blu acciaio. Si muove in modo autoritario e indossa solo vestiti di cuoio nero. Parla poco e quando lo fa la sua voce è bassa e roca, con un rozzo accento di Altdorf. Di solito fissa negli occhi in maniera inquietante chiunque gli stia di fronte. Beve molto e, quando è solo, affoga i ricordi di una vita difficile con brandy e lacrime.</p><p><strong>Averi:</strong> 50 scellini e 36 penny, Giaco e Gambali di Cuoio (nero), Spada</p>"
+    },
+	{ 
+	  "id": "Miltrud (Guard)",
+      "name": "Miltrud (Guardia)",
+      "description": "<section class=\"secret\" id=\"secret-4UorWorAR19Lv3BK\"><p>@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{La Locanda del Barcaiolo}</p><p>I due nobili sono accompagnati da quattro guardie del corpo colossali, tutte alte più di 1,80m e molto muscolose. Parlano di rado e preferiscono restare vicine ai padroni, pronte a intervenire se qualcuno osa rivolgersi o mettere le mani sul fiore della nobiltà del Reikland. Se costrette, si esprimono con l’accento ringhiante tipico dei più infimi criminali dei @UUID[Compendium.wfrp4e-altdorf.journals.85UN6bKPTfGEBtBb]{sobborghi di Altdorf}</p></section>",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Una Mühlmauer",
+      "name": "Una Mühlmauer",
+      "description": "",
+      "species": "Umano",
+      "gender": "Femmina",
+      "gmnotes": "<p>L’amichevole padrona della <span class=\"fontstyle2\">@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{Locanda del Barcaiolo}</span>, Una Mühlmauer, ama il suo lavoro. È giustamente fiera del proprio locale e affezionata al personale e ai clienti abituali. È una donna di altezza media, magra, con la pelle bruna, i capelli lisci e il sorriso pronto. Ha ereditato la locanda dal padre, un gran lavoratore, morto di recente. Nonostante abbia solo vent’anni è sicura di sé. Se i Personaggi la trattano con rispetto, e se spendono per un paio di bicchieri, è felice di passare un po’ di tempo con loro e fornire informazioni sulle zone più losche dei moli di Altdorf, di cui conosce ben più di quanto molti credano. Una parla con l’accento morbido, sospirato ed esotico del suo retaggio Tileano, preso dalla madre, che pare fosse una malavitosa. Tuttavia, dopo qualche bicchiere, il naturale tono dei ceti bassi di Altdorf riemerge e comincia a imprecare violentemente. Ama gli scherzi ben fatti sopra ogni altra cosa.</p><p><strong>Averi:</strong> Flagello Improvvisato * (fatto legando due gambe di sgabello), Trombone (sotto il bancone)</p><p>* Pur essendo un’Arma Improvvisata, questo Flagello ha le Qualità <em>Avvolgente</em> e <em>Distraente</em>.</p>"
+    }	
 	]
 }
