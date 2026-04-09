@@ -266,6 +266,40 @@
       "species": "Umano",
       "gender": "Femmina",
       "gmnotes": "<p>L’amichevole padrona della <span class=\"fontstyle2\">@UUID[JournalEntry.IjGUv51IPhj79Wxt.JournalEntryPage.E8nLFVw3Mmc024dc]{Locanda del Barcaiolo}</span>, Una Mühlmauer, ama il suo lavoro. È giustamente fiera del proprio locale e affezionata al personale e ai clienti abituali. È una donna di altezza media, magra, con la pelle bruna, i capelli lisci e il sorriso pronto. Ha ereditato la locanda dal padre, un gran lavoratore, morto di recente. Nonostante abbia solo vent’anni è sicura di sé. Se i Personaggi la trattano con rispetto, e se spendono per un paio di bicchieri, è felice di passare un po’ di tempo con loro e fornire informazioni sulle zone più losche dei moli di Altdorf, di cui conosce ben più di quanto molti credano. Una parla con l’accento morbido, sospirato ed esotico del suo retaggio Tileano, preso dalla madre, che pare fosse una malavitosa. Tuttavia, dopo qualche bicchiere, il naturale tono dei ceti bassi di Altdorf riemerge e comincia a imprecare violentemente. Ama gli scherzi ben fatti sopra ogni altra cosa.</p><p><strong>Averi:</strong> Flagello Improvvisato * (fatto legando due gambe di sgabello), Trombone (sotto il bancone)</p><p>* Pur essendo un’Arma Improvvisata, questo Flagello ha le Qualità <em>Avvolgente</em> e <em>Distraente</em>.</p>"
-    }	
+    },
+
+
+	{ 
+	  "id": "Adolphus Kuftsos",
+      "name": "Adolphus Kuftsos",
+      "description": "",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": "<p>Adolphus Kuftsos è un concentrato di rabbia, muscoli e sete di sangue cotto a fuoco lento. Pur essendo abbastanza anonimo, capelli castani, barba corta e occhi blu acquosi, il continuo ringhiare lo fa spiccare in mezzo alla folla. L’unico altro elemento distintivo è una cicatrice livida sul collo, ricordo di un’occasione in cui è sfuggito per miracolo all’impiccagione da parte di un gruppo di banditi. Questo incidente gli ha rovinato la gola, dandogli una parlata lenta e ansimante, che non potrebbe essere più sinistra. È appena trentenne, fa il cacciatore di taglie da sei anni e ha già arrestato molti criminali. È caparbio e usa ogni mezzo disponibile per portare le sue prede davanti alla giustizia… o a una rapida fine. Attualmente è al servizio di Lady <span class=\"fontstyle0\">@UUID[Compendium.wfrp4e-rnhd.actors.hcAF95tFaOdoZoeF]{Emmanuelle Nacht}</span>, un’importante nobildonna del Reikland, che lo ha ingaggiato a Ubersreik per braccare senza posa la <span class=\"fontstyle0\">@UUID[JournalEntry.IZVgB7zmTm4rK2yJ]{Mano Purpurea}</span>, ovunque questa lo condurrà.</p><p> </p>"
+    },
+	{ 
+	  "id": "Bengt",
+      "name": "Bengt",
+      "description": "<section class=\"secret\" id=\"secret-wWIZOUYhy0aF14MZ\"><p><span class=\"fontstyle0\">@UUID[Actor.rYlDGJx20M72PydJ]{Bengt}, @UUID[Actor.r5NgPWpDHpjRkGQM]{Gurt}, e @UUID[Actor.BLrqbYcSiVvWnmws]{Willie},</span> i tre delinquenti assoldati da Adolphus, lavorano ogni tanto ai moli di <span class=\"fontstyle0\">@UUID[JournalEntry.tT80gcSmeK5oO5C2.JournalEntryPage.l2kZtajL8d3RlPqO]{Weissbruck}</span>. Non sono particolarmente furbi o fedeli e parlano tutti con un rozzo accento dei ceti bassi del Reikland. Se catturati dai Personaggi, è possibile convincerli a rivelare i piani di Adolphus con una <strong>Prova Facile (+40) di Intimidire</strong> o Corrompere. Se uno di loro resta ferito nello scontro, Adolphus deve effettuare una <strong>Prova Impegnativa (+0) di Comandare</strong>. Se fallisce, tutti e tre gli scagnozzi ottengono la condizione @Condition[Atterrito].</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Gurt",
+      "name": "Gurt",
+      "description": "<section class=\"secret\" id=\"secret-wWIZOUYhy0aF14MZ\"><p><span class=\"fontstyle0\">@UUID[Actor.rYlDGJx20M72PydJ]{Bengt}, @UUID[Actor.r5NgPWpDHpjRkGQM]{Gurt}, e @UUID[Actor.BLrqbYcSiVvWnmws]{Willie},</span> i tre delinquenti assoldati da Adolphus, lavorano ogni tanto ai moli di <span class=\"fontstyle0\">@UUID[JournalEntry.tT80gcSmeK5oO5C2.JournalEntryPage.l2kZtajL8d3RlPqO]{Weissbruck}</span>. Non sono particolarmente furbi o fedeli e parlano tutti con un rozzo accento dei ceti bassi del Reikland. Se catturati dai Personaggi, è possibile convincerli a rivelare i piani di Adolphus con una <strong>Prova Facile (+40) di Intimidire</strong> o Corrompere. Se uno di loro resta ferito nello scontro, Adolphus deve effettuare una <strong>Prova Impegnativa (+0) di Comandare</strong>. Se fallisce, tutti e tre gli scagnozzi ottengono la condizione @Condition[Atterrito].</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    },
+	{ 
+	  "id": "Willie",
+      "name": "Willie",
+      "description": "<section class=\"secret\" id=\"secret-wWIZOUYhy0aF14MZ\"><p><span class=\"fontstyle0\">@UUID[Actor.rYlDGJx20M72PydJ]{Bengt}, @UUID[Actor.r5NgPWpDHpjRkGQM]{Gurt}, e @UUID[Actor.BLrqbYcSiVvWnmws]{Willie},</span> i tre delinquenti assoldati da Adolphus, lavorano ogni tanto ai moli di <span class=\"fontstyle0\">@UUID[JournalEntry.tT80gcSmeK5oO5C2.JournalEntryPage.l2kZtajL8d3RlPqO]{Weissbruck}</span>. Non sono particolarmente furbi o fedeli e parlano tutti con un rozzo accento dei ceti bassi del Reikland. Se catturati dai Personaggi, è possibile convincerli a rivelare i piani di Adolphus con una <strong>Prova Facile (+40) di Intimidire</strong> o Corrompere. Se uno di loro resta ferito nello scontro, Adolphus deve effettuare una <strong>Prova Impegnativa (+0) di Comandare</strong>. Se fallisce, tutti e tre gli scagnozzi ottengono la condizione @Condition[Atterrito].</p></section>",
+      "species": "Umano",
+      "gender": "Maschio",
+      "gmnotes": ""
+    }
 	]
 }

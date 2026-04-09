@@ -1,0 +1,19 @@
+{
+  "label": "Scene (Nemico nell'Ombra)",
+    "mapping": {
+    "name": "name",
+    "src": "background.src.value",
+	},
+  "entries": [
+    {
+      "id": "Altdorf to Bögenhafen",
+      "name": "Altdorf a Bögenhafen",
+      "src": "modules/wfrp4e-eis-it/assets/scenes/EIS/EIS-Altdorf-Bogenhafen.webp"
+    },
+    {
+      "id": "Duchy of Saponatheim",
+      "name": "Ducato di Saponatheim",
+      "src": "modules/wfrp4e-eis-it/assets/scenes/EIS/EIS-Ducato-Saponatheim.webp"
+    }
+	]
+}
