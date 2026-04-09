@@ -2,7 +2,7 @@
   "label": "Scene (Nemico nell'Ombra)",
     "mapping": {
     "name": "name",
-    "image_src": "background.src.value"
+    "image_src": "background.src"
 	},
   "entries": [
     {
